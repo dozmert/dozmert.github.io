@@ -1,11 +1,11 @@
 title: "Dozmert's Blog"
 author: "Dennis Ozmert"
-description: "This is my blog." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "This is my generic blog." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
+#email: "example@mail.com"
+#twitter_username: "twitteruser"
 github_username: "dozmert"
 linkedin_username: "dennis-ozmert-48623b123"
 #facebook_username: username
