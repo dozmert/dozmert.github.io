@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Security-Labs
 This is my offensive security blog/repo that’s very much a work in progress meant for students and beginners. Write-ups are nothing new however, I’m aiming to reinforce what I have learned by trying to explain it to others. I will mainly look to grasp on to fundamentals and industry tricks rather than show off fancy techniques. As this blog/repo matures it will look diffrent from when it first started.
 
@@ -30,3 +31,8 @@ The developers of site request that writeups for Challenges and Investigations o
 | Javascript | Forensic | Extbasic | Stego | IRC |
 
 ## Exercises/Miscellaneous
+=======
+This is my offensive security blog that's very much a work in progress meant for students and beginners. Write-ups are nothing new however, I'm aiming to reinforce what I have learned by trying to explain it to others. I will mainly look to grasp onto fundamentals and industry tricks rather than show off fancy techniques. Furhter down the line I may look to overhaul the format and presentation of my posts however a fancy page is not my priority.
+
+UPDATE: This blog is transitioning into a pure github repo. Additional content can be found [here](https://github.com/dozmert/Security-Labs).
+>>>>>>> 56dd4f9fe6750d6ff7b148c11b2890fd80b4e82b
