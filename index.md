@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Security-Labs
 This is my offensive security blog/repo that’s very much a work in progress meant for students and beginners. Write-ups are nothing new however, I’m aiming to reinforce what I have learned by trying to explain it to others. I will mainly look to grasp on to fundamentals and industry tricks rather than show off fancy techniques. As this blog/repo matures it will look diffrent from when it first started.
 
