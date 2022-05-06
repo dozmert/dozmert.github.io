@@ -1,1 +1,3 @@
 This is my offensive security blog that's very much a work in progress meant for students and beginners. Write-ups are nothing new however, I'm aiming to reinforce what I have learned by trying to explain it to others. I will mainly look to grasp onto fundamentals and industry tricks rather than show off fancy techniques. Furhter down the line I may look to overhaul the format and presentation of my posts however a fancy page is not my priority.
+
+UPDATE: This blog is transitioning into a pure github repo. Additional content can be found [here](https://github.com/dozmert/Security-Labs).
